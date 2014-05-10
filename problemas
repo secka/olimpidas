@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{int N,B,C;
+    cout <<"coloque el primer numero : ";
+    cin >> N;
+    cout <<"coloque el segundo numero : ";
+    cin >> B;
+
+
+    cout << "el resultado de su multiplicacion  es : ";
+    C = (N*B);
+    cout << C;
+
+
+    return 0;
+}
